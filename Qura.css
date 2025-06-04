@@ -1,0 +1,40 @@
+ *{
+    font-family:"Courier New";
+ }
+ h1,h2{
+    color: #b92b27;
+ }
+ #a{
+    background-color:red;
+ }
+ #b{
+    background-color: aqua;
+ }
+ .A{
+    color: black;
+    background-color: green;
+ }
+nav ul li{
+    color: blueviolet;
+    
+}
+h2 {
+    text-decoration: underline;
+}
+.A + button{
+    color:darkorchid;
+    background-color: blue;
+}
+input{
+    background-color: #451b7c;
+    color: aqua;
+}
+input[type="text"]{
+   color: #b92b27;
+}
+input[type="password"]{
+   color:green;
+   
+}
+ 
+
